@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/QueryDSL-8C8C49?style=for-the-badge&logo=hibernate&logoColor=white"> 
 <img src="https://img.shields.io/badge/Native%20Query-6B8E23?style=for-the-badge&logo=hibernate&logoColor=white"> 
 
-### DB/Cache
+### DB / Cache
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> 
 
