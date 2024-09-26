@@ -38,6 +38,11 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
+# GitHub Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ung)](https://github.com/anuraghazra/github-readme-stats)
+
+# Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=_mung)]([벨로그링크](https://velog.io/@_mung/posts))
 
   # :mailbox_with_mail: Contacts
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&&link=mailto:wjdahrrla@gmail.com)](mailto:wjdahrrla@gmail.com)
