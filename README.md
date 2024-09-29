@@ -38,11 +38,14 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
-# 📈 GitHub Status
-<p>
+# 🎖️ Ranking
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdahrrla)](https://solved.ac/wjdahrrla/)
+
+# 📈 GitHub Status
+<div style="display: flex;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-ung&show_icons=true&include_all_commits=true&bg_color=30,8F9779,A2A583&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-ung&layout=compact&bg_color=30,8F9779,A2A583&title_color=fff&text_color=fff">
-</p>
+</div>
 
 
 # 📝 Velog.IO
