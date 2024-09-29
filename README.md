@@ -6,7 +6,7 @@
 
   ![IMG_0872](https://github.com/M-ung/M-ung/assets/126846468/a7c0a6e5-5864-4525-9fb2-b844b100389d)
 
-  # 🛠️ Skills
+# 🛠️ Skills
 ### 🔸 BackEnd
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
