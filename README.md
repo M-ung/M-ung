@@ -38,10 +38,14 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
-# 📈 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ung)](https://github.com/anuraghazra/github-readme-stats)
+# 📈 GitHub Status
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-ung&show_icons=true&include_all_commits=true&bg_color=30,8F9779,A2A583&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-ung&layout=compact&bg_color=30,8F9779,A2A583&title_color=fff&text_color=fff">
+</p>
 
-# 📝 Velog
+
+# 📝 Velog.IO
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=_mung&color=dark)](https://velog.io/@_mung)
 
   # :mailbox_with_mail: Contacts
