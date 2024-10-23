@@ -47,7 +47,6 @@
   
   #### 📈 GitHub Status
   <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-ung&show_icons=true&include_all_commits=true&bg_color=30,8F9779,A2A583&title_color=fff&text_color=fff">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-ung&layout=compact&bg_color=30,8F9779,A2A583&title_color=fff&text_color=fff">
   </p>
   
@@ -55,10 +54,4 @@
   
   #### 📝 Velog.IO
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=_mung&color=dark)](https://velog.io/@_mung)
-  
-  --- 
-  #### :mailbox_with_mail: Contacts
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&&link=mailto:wjdahrrla@gmail.com)](mailto:wjdahrrla@gmail.com)
-  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjdahrrla@naver.com)](mailto:wjdahrrla@naver.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_.mung)
 </div>
