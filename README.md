@@ -25,9 +25,4 @@
   ### 🎖️ Ranking
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdahrrla)](https://solved.ac/wjdahrrla/)
 
-  <br><br>
-
-  ### 📝 Velog.IO
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=_mung&color=dark)](https://velog.io/@_mung)
-
 </div>
