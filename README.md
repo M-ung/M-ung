@@ -7,19 +7,21 @@
   <br>
 
   <img src="https://github.com/M-ung/M-ung/assets/126846468/a7c0a6e5-5864-4525-9fb2-b844b100389d" alt="Profile Image" width="400">
-  
-  <br>
-  
-  ### 🛠️ Skills
-  | **Category** | **Tools** |
-  |---|---|
-  | **BackEnd** | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/QueryDSL-8C8C49?style=for-the-badge&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Native%20Query-6B8E23?style=for-the-badge&logo=hibernate&logoColor=white"> |
-  | **DB / Cache** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> |
-  | **Server / Deployment** | <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> |
-  | **Programming Language** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
-  | **Tools** | <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/MySQL%20Workbench-007ACC?style=for-the-badge&logo=mysql&logoColor=white"> |
-  | **Collaborations** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> |
-  
-  <br><br>
 
 </div>
+  <br>
+  
+  ### 💻 Projects
+
+  ### 🌈 Activities
+  - 🦁 멋쟁이사자처럼 인천대학교 11기 BE 아기사자 (2023.01 ~ 2023.12)
+  - 📚 인천대학교 코딩 봉사 동아리 코딩학당 (2023.03 ~ 2024.12)
+  - ☁️ 구름톤 유니브 미르미 1기 BE Developer (2023.09 ~ 2023.12)
+  - 🦁 멋쟁이사자처럼 인천대학교 12기 부대표 & BE 스터디장 (2024.01 ~ 2024.12)
+  - 🎥 한이음 ICT 멘토링 BE Developer (2024.02 ~ 2024.10)
+  - 🧑🏻‍🏫 그린나래 멘토스 대학생 멘토단 8기 (2024.02.24 ~ 2024.12)
+  - 📔 대학생 연합 IT 동아리 잇타 5기 BE Developer (2024.03.09 ~ 2024.07.27) 
+
+  ### 🏆 Awards
+  
+  <br><br>
