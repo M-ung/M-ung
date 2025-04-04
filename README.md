@@ -1,11 +1,7 @@
 #### ✔ About Me
 <div align="center">
 
-  # 🐶 @_.mung 🐶
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FM-ung&count_bg=%2360D706&title_bg=%232C6019&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  <br>
-
+  # 🐶 @_.mung 🐶  
   <img src="https://github.com/M-ung/M-ung/assets/126846468/a7c0a6e5-5864-4525-9fb2-b844b100389d" alt="Profile Image" width="400">
 
 </div>
@@ -34,7 +30,7 @@
     - TalkPick - 스몰톡 주제 추천 서비스 "TalkPick"
 
   ## 🌈 Activities
-  - 🦁 멋쟁이사자처럼 인천대학교 11기 BE 아기사자 (2023.01 ~ 2023.12)
+  - 🦁 멋쟁이사자처럼 인천대학교 11기 BE 아기사자 (2023.03 ~ 2023.12)
   - 📚 인천대학교 코딩 봉사 동아리 코딩학당 (2023.03 ~ 2024.12)
   - ☁️ 구름톤 유니브 1기 미르미 BE Developer (2023.09 ~ 2023.12)
   - 🦁 멋쟁이사자처럼 인천대학교 12기 부대표 & BE 스터디장 (2024.01 ~ 2024.12)
@@ -42,12 +38,12 @@
   - 🧑🏻‍🏫 그린나래 멘토스 대학생 멘토단 8기 (2024.02 ~ 2024.12)
   - 📔 대학생 연합 IT 동아리 잇타 5기 BE Developer (2024.03 ~ 2024.08) 
 
-  ## 📃 Certificates
-  - 🪪 네트워크관리사 2급
-  - 🪪 리눅스마스터 2급
-
   ## 🏆 Awards
   - 🥇 최우수상 - 메디럭스 x 잇타 연합 해커톤
   - 🥉 장려상 - 인천대학교 졸업작품 발표회
   - 🥈 우수상 - 잇타 프로젝트 발표회
   - 🥇 최우수상 - 인천대학교 교내 해커톤
+
+  ## 📃 Certificates
+  - 🪪 네트워크관리사 2급
+  - 🪪 리눅스마스터 2급
